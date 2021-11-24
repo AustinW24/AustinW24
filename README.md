@@ -1,4 +1,3 @@
-### Hello there, I'm Austin 👋
 
 <!--
 **AustinW24/AustinW24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
