@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Austin 👋
 
 <!--
 **AustinW24/AustinW24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Tech I have worked with <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
