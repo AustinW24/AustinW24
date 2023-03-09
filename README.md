@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ### Find me on the web 🌎...
 The greatest [portfolio](https://austinw24.github.io./) ever created to this date.
 LinkedIn, a place where we can [connect](https://www.linkedin.com/in/austin-williams-44a6a21b8/) and explore new opportunities.
-I'm currently pursuing new career opportunities!
 
